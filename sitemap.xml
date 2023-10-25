@@ -2,17 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://xuyhao.github.io/posts/myfirstarticles/</loc>
     <lastmod>2023-10-24T20:14:03+08:00</lastmod>
   </url><url>
-    <loc>/posts/myfirstarticles/</loc>
+    <loc>https://xuyhao.github.io/posts/</loc>
     <lastmod>2023-10-24T20:14:03+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://xuyhao.github.io/</loc>
     <lastmod>2023-10-24T20:14:03+08:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://xuyhao.github.io/tags/</loc>
+    <lastmod>1012-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://xuyhao.github.io/tags/test/</loc>
+    <lastmod>1012-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xuyhao.github.io/posts/test-9/</loc>
+    <lastmod>1012-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xuyhao.github.io/posts/test-8/</loc>
+    <lastmod>1012-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xuyhao.github.io/posts/test-7/</loc>
+    <lastmod>1012-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xuyhao.github.io/posts/test-6/</loc>
+    <lastmod>1012-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xuyhao.github.io/posts/test-5/</loc>
+    <lastmod>1012-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xuyhao.github.io/posts/test-4/</loc>
+    <lastmod>1012-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xuyhao.github.io/posts/test-3/</loc>
+    <lastmod>1012-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xuyhao.github.io/posts/test-2/</loc>
+    <lastmod>1012-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xuyhao.github.io/posts/test-1/</loc>
+    <lastmod>1012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xuyhao.github.io/about/</loc>
+  </url><url>
+    <loc>https://xuyhao.github.io/categories/</loc>
   </url>
 </urlset>
